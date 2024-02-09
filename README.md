@@ -7,7 +7,7 @@ NOTE: YOU SHOULD NOT CHANGE THE TEST FILE *.test.js. IF YOU CHANGE IT, YOU WILL 
 
 **First name:** Trinh
 
-**Last name:** Nguyen
+**Last name:** Nguyen 
 
 Open the file `get-string-length.js` and solve all of the TODOs specified in that file.
 
