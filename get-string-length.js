@@ -4,7 +4,7 @@ let myString = 'Hello World!!!';
 // NOTE: DO NOT HARD CODE THE SIZE OF `myString`. When you change the value
 // of `myString`, the test should still pass.
 let len = -1;
-let len = myString.length; 
+len = myString.length; 
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
